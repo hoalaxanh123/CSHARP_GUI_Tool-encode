@@ -1,0 +1,53 @@
+i:\documents\visual studio 2015\Projects\Tool Encode\Tool Encode\bin\Debug\Tool Encode.exe
+i:\documents\visual studio 2015\Projects\Tool Encode\Tool Encode\bin\Debug\Tool Encode.pdb
+i:\documents\visual studio 2015\Projects\Tool Encode\Tool Encode\bin\Debug\DevExpress.BonusSkins.v17.2.dll
+i:\documents\visual studio 2015\Projects\Tool Encode\Tool Encode\bin\Debug\DevExpress.Data.v17.2.dll
+i:\documents\visual studio 2015\Projects\Tool Encode\Tool Encode\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+i:\documents\visual studio 2015\Projects\Tool Encode\Tool Encode\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+i:\documents\visual studio 2015\Projects\Tool Encode\Tool Encode\bin\Debug\DevExpress.Utils.v17.2.dll
+i:\documents\visual studio 2015\Projects\Tool Encode\Tool Encode\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+i:\documents\visual studio 2015\Projects\Tool Encode\Tool Encode\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+i:\documents\visual studio 2015\Projects\Tool Encode\Tool Encode\bin\Debug\DevExpress.Data.v17.2.xml
+i:\documents\visual studio 2015\Projects\Tool Encode\Tool Encode\bin\Debug\DevExpress.Utils.v17.2.xml
+i:\documents\visual studio 2015\Projects\Tool Encode\Tool Encode\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+i:\documents\visual studio 2015\Projects\Tool Encode\Tool Encode\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+i:\documents\visual studio 2015\Projects\Tool Encode\Tool Encode\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+i:\documents\visual studio 2015\Projects\Tool Encode\Tool Encode\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+i:\documents\visual studio 2015\Projects\Tool Encode\Tool Encode\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+i:\documents\visual studio 2015\Projects\Tool Encode\Tool Encode\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+i:\documents\visual studio 2015\Projects\Tool Encode\Tool Encode\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+i:\documents\visual studio 2015\Projects\Tool Encode\Tool Encode\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+i:\documents\visual studio 2015\Projects\Tool Encode\Tool Encode\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+i:\documents\visual studio 2015\Projects\Tool Encode\Tool Encode\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+i:\documents\visual studio 2015\Projects\Tool Encode\Tool Encode\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+i:\documents\visual studio 2015\Projects\Tool Encode\Tool Encode\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+i:\documents\visual studio 2015\Projects\Tool Encode\Tool Encode\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+i:\documents\visual studio 2015\Projects\Tool Encode\Tool Encode\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+i:\documents\visual studio 2015\Projects\Tool Encode\Tool Encode\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+i:\documents\visual studio 2015\Projects\Tool Encode\Tool Encode\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+i:\documents\visual studio 2015\Projects\Tool Encode\Tool Encode\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+i:\documents\visual studio 2015\Projects\Tool Encode\Tool Encode\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+i:\documents\visual studio 2015\Projects\Tool Encode\Tool Encode\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+i:\documents\visual studio 2015\Projects\Tool Encode\Tool Encode\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+i:\documents\visual studio 2015\Projects\Tool Encode\Tool Encode\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+i:\documents\visual studio 2015\Projects\Tool Encode\Tool Encode\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+i:\documents\visual studio 2015\Projects\Tool Encode\Tool Encode\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+i:\documents\visual studio 2015\Projects\Tool Encode\Tool Encode\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+i:\documents\visual studio 2015\Projects\Tool Encode\Tool Encode\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+i:\documents\visual studio 2015\Projects\Tool Encode\Tool Encode\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+i:\documents\visual studio 2015\Projects\Tool Encode\Tool Encode\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+i:\documents\visual studio 2015\Projects\Tool Encode\Tool Encode\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+i:\documents\visual studio 2015\Projects\Tool Encode\Tool Encode\obj\Debug\Tool Encode.csprojResolveAssemblyReference.cache
+i:\documents\visual studio 2015\Projects\Tool Encode\Tool Encode\obj\Debug\Tool_Encode.Form1.resources
+i:\documents\visual studio 2015\Projects\Tool Encode\Tool Encode\obj\Debug\Tool_Encode.Properties.Resources.resources
+i:\documents\visual studio 2015\Projects\Tool Encode\Tool Encode\obj\Debug\Tool Encode.csproj.GenerateResource.Cache
+i:\documents\visual studio 2015\Projects\Tool Encode\Tool Encode\obj\Debug\Tool Encode.exe.licenses
+i:\documents\visual studio 2015\Projects\Tool Encode\Tool Encode\obj\Debug\Tool Encode.exe
+i:\documents\visual studio 2015\Projects\Tool Encode\Tool Encode\obj\Debug\Tool Encode.pdb
+E:\Project\Tool Encode\Tool Encode\obj\Debug\Tool Encode.csprojAssemblyReference.cache
+E:\Project\Tool Encode\Tool Encode\obj\Debug\Tool_Encode.Form1.resources
+E:\Project\Tool Encode\Tool Encode\obj\Debug\Tool_Encode.Properties.Resources.resources
+E:\Project\Tool Encode\Tool Encode\obj\Debug\Tool Encode.csproj.GenerateResource.cache
+E:\Project\Tool Encode\Tool Encode\obj\Debug\Tool Encode.exe.licenses
+E:\Project\Tool Encode\Tool Encode\obj\Debug\Tool Encode.exe
+E:\Project\Tool Encode\Tool Encode\obj\Debug\Tool Encode.pdb
